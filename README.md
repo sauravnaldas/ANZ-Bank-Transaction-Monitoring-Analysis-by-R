@@ -1,1 +1,3 @@
 # ANZ-Bank-Transaction-Monitoring-Analysis-by-R
+This is a “synthesised transaction dataset containing 3 months’ worth of transactions for 100 hypothetical customers. It contains purchases, recurring transactions, and salary transactions. The dataset is designed to understand the transaction pattern that are observed in ANZ’s real transaction data.” The data set contains 12,043 observations with 23 variables.
+Agenda: Explotary Data Analysis: Draw insights from the data about customers purchase behaviour,transactions pattern and expenditure behaviour in age category. Top 10 bank customers by annual income and annual income by Gender.
